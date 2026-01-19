@@ -1,5 +1,8 @@
+<<<<<<< HEAD:requirements.txt
 streamlit
 tensorflow
 pandas
 numpy
 scikit-learn
+=======
+>>>>>>> 0c9a802 (Add trained churn model file):requirements.TXT
