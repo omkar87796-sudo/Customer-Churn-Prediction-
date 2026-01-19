@@ -1,6 +1,6 @@
 <<<<<<< HEAD:requirements.txt
 streamlit
-tensorflow
+tensorflow==2.15.0
 pandas
 numpy
 scikit-learn
